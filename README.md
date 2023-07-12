@@ -1,4 +1,8 @@
 # TDK Dataset
+
+<img align="right" alt="old me irl xd" width="300" height="230" src="https://github.com/erogluegemen/tdk-dataset/assets/30879498/641ccab1-5495-48ef-a218-445e57be4851">
+
+
 This dataset contains a collection of Turkish dictionary definitions extracted from the official website of the Turkish Language Association (TDK). It provides comprehensive definitions for a wide range of Turkish words and phrases.
 
 The dataset is intended to be a valuable resource for researchers, linguists, language enthusiasts, and anyone interested in the Turkish language. It can be used for various purposes, such as natural language processing tasks, language analysis, and educational projects.
