@@ -27,4 +27,6 @@ The following steps were involved in the data collection process:
 3. <b>Retrieve and store the data:</b> The data, including word definitions and associated metadata, was retrieved from the API response and stored in a structured format.
 4. <b>Data cleaning and processing:</b> The collected data was cleaned and processed to ensure consistency and proper formatting. The web scraping process was designed to be respectful and compliant with the terms of service and guidelines provided by TDK. The data collection focused solely on retrieving dictionary definitions, and no other personal or sensitive information was accessed or stored.
 
-You can find the more information here: https://www.kaggle.com/datasets/erogluegemen/tdk-turkish-words
+You can find the more informations here: <br>
+Kaggle: https://www.kaggle.com/datasets/erogluegemen/tdk-turkish-words <br>
+Medium: https://erogluegemen.medium.com/sequential-vs-parallel-processing-in-python-ef0ef3cc34c9 <br>
