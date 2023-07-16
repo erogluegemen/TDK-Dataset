@@ -29,4 +29,5 @@ The following steps were involved in the data collection process:
 
 You can find the more informations here: <br>
 Kaggle: https://www.kaggle.com/datasets/erogluegemen/tdk-turkish-words <br>
+HuggingFace: https://huggingface.co/datasets/erogluegemen/TDK_Turkish_Words <br>
 Medium: https://erogluegemen.medium.com/sequential-vs-parallel-processing-in-python-ef0ef3cc34c9 <br>
